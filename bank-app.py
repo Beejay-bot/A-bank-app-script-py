@@ -180,6 +180,7 @@ def terminate():
     print("terminating...")
     sleep(1)
     print("Thanks for banking with us, Good Bye")
+    print('This changes is made for the PPDRM demo video. Thanks for watching')
     # Introduce delay later here
     start()
     
