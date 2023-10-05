@@ -180,6 +180,7 @@ def terminate():
     print("terminating...")
     sleep(1)
     print("Thanks for banking with us, Good Bye")
+    print('Just test change for pipedream')
     # Introduce delay later here
     start()
     
